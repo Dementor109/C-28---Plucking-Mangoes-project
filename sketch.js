@@ -14,7 +14,7 @@ var world,boy;
 var launcher;
 
 function preload(){
-	boy=loadImage("boy.png");
+	boy=loadImage("sboy.png");
 }
 
 function setup() {
